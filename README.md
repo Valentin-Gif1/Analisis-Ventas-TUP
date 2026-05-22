@@ -1,7 +1,7 @@
 # Análisis de Ventas - TUP UTN
 
 ## Integrantes
-- Carbone, Valentín
+- Carbone Valentín
 
 ## Escenario
 Escenario B – Análisis de Ventas de una Pequeña Empresa
